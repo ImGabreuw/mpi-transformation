@@ -56,4 +56,4 @@ make run
 
 Execute o comando abaixo para compilar e rodar o programa com 5 processadores:
 
-
+![](./assets/demo.png)
